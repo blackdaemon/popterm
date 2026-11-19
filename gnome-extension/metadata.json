@@ -2,6 +2,6 @@
   "uuid": "popterm-wayland-bridge@blackdaemon",
   "name": "Popterm Wayland Bridge",
   "description": "Exposes a narrow D-Bus command for toggling a terminal window under GNOME Wayland",
-  "shell-version": ["50"],
+  "shell-version": ["50", "51"],
   "version": 1
 }
