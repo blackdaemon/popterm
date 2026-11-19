@@ -1,0 +1,15 @@
+[package]
+name = "popterm"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "popterm"
+path = "src/main.rs"
+
+[[bin]]
+name = "popterm-wayland"
+path = "src/bin/popterm-wayland.rs"
+
+[dependencies]
+x11rb = "0.13"
