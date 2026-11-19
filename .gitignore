@@ -1,0 +1,9 @@
+# Rust build output
+/target
+
+# IDE
+/.idea
+*.iml
+
+# Go build output
+/popterm
